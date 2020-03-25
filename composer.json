@@ -1,0 +1,17 @@
+{
+    "name": "yinxin/framework",
+    "description": "just a test framework",
+    "authors": [
+        {
+            "name": "yinxin",
+            "email": "yinxin@xiaozhu.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Framework\\": "src/"
+        }
+    }    
+}
